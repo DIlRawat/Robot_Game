@@ -1,0 +1,1 @@
+Should use .contains instead of manually looping  through list. -4
